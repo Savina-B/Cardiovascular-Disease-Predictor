@@ -1,14 +1,9 @@
 # Cardiovascular Disease Predictor
 
 **Introduction**
+
 Welcome to the Cardiovascular Disease Predictor project. This repository is dedicated to creating an analysis that can eventually be used as a basis for building a predictive model to assess the risk of cardiovascular disease (CVD) using various risk factors. The goal is to enable early detection and intervention, potentially saving lives and improving the quality of life for those at risk.
 
-**About Me**
-My name is Savina, and I have a background in Biomedical Science. Transitioning from Biomedical Science to Data Analysis was driven by my desire to make a broader impact in the medical field, particularly in research and development. Combining my scientific knowledge with data analysis skills, I aim to uncover valuable insights that lead to breakthroughs in medical science, improving patient outcomes and quality of life. This project aligns with my career goals of contributing to significant medical advancements, especially in cancer research and related fields.
-
-**Project Overview
-Topic:
-Cardiovascular Disease Predictor**
 
 **Problem Statement**
 Cardiovascular disease (CVD) is a leading cause of death globally, with millions affected. Early detection is crucial to prevent severe health complications like strokes and heart attacks. The project aims to address the limited ability to detect and predict CVD early.
