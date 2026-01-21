@@ -1,5 +1,4 @@
-# Niyo-Bootcamp---Final-Project
-Data Analytics - Final Project_End-to-End Analysis Applying All Tools
+# Cardiovascular Disease Predictor
 
 **Introduction**
 Welcome to the Cardiovascular Disease Predictor project. This repository is dedicated to creating an analysis that can eventually be used as a basis for building a predictive model to assess the risk of cardiovascular disease (CVD) using various risk factors. The goal is to enable early detection and intervention, potentially saving lives and improving the quality of life for those at risk.
